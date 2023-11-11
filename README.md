@@ -22,9 +22,9 @@ git clone https://github.com/Prashanth-0/Hash-Integrity-Checker.git
 
 2. Navigate to the project directory:
 
- cd Hash-Integrity-Chcker
+       cd Hash-Integrity-Checker
 
 3. run:
 
-python hash.py
+        python hash.py
 
