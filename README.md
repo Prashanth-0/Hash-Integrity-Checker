@@ -8,9 +8,11 @@ This tool calculates the hash of a file and checks it against a provided hash va
 - Compares the calculated hash with an expected hash for file integrity checks.
 - Provides a simple command-line interface for ease of use
 
-## Prerequisites
+## Prerequirements
 
 Before using this tool, make sure you have the following installed:
+
+1. python
 
 ## Installation
 
