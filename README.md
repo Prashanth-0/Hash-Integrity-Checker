@@ -18,7 +18,7 @@ Before using this tool, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/Prashanth-0/Hash-Integrity-Checker.git
+git clone https://github.com/Prashanth-            0/Hash-Integrity-Checker.git
 
 2. Navigate to the project directory:
 
